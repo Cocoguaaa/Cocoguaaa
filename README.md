@@ -1,22 +1,26 @@
 <!-- Banner / Cover -->
+<div align="center">
+  <img src="https://scontent.fcnx4-2.fna.fbcdn.net/v/t1.15752-9/551748346_1634664313894018_6062543723530624093_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=TMQGvdyB0HQQ7kNvwGX7ugX&_nc_oc=Adkg9bVMC-SWJfqaEnMKOu7ch8YwSe_vttR4rsGNb3Dm_9DzAWfRHm8ENCgLKGhZRKA7vQzvA1Q-ChLo6NuprK6Z&_nc_zt=23&_nc_ht=scontent.fcnx4-2.fna&oh=03_Q7cD3QEh56YPHVFEKATPbwmoN66Ta337BzyzGtKwMqKornRRSA&oe=68FB8C97" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #1E4C9A;" />
+</div>
+<h1 align="center">
+  HELLO 
+  <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> 
+  <br/>
+  <span style="color: #1E4C9A;">MR.PARADON LALAKORN</span>
+</h1>
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
-
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
-<p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Front-end+Developer+🚀;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 🎓 **Information Technology Student - Year 4**
+- 🎯 **Goal**: Becoming a **Front-end Developer**
+- 🌱 Currently Learning: Spring Boot, Postman, API Integration
+- 🛠 Daily Tech Stack: vs code, sql
+- 📫 Reach me at: [3bbgowww@gmail.com](mailto:3bbgowww@gmail.com)
+
 
 ---
 
