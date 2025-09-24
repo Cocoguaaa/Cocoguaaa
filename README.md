@@ -17,9 +17,9 @@
 ## 🚀 About Me
 - 🎓 **Information Technology Student - Year 4**
 - 🎯 **Goal**: Becoming a **Front-end Developer**
-- 🌱 Currently Learning: Spring Boot, Postman, API Integration
-- 🛠 Daily Tech Stack: vs code, sql
-- 📫 Reach me at: [3bbgowww@gmail.com](mailto:3bbgowww@gmail.com)
+- 🌱 Currently Learning: **HTML5, JavaScript, CSS**
+- 🛠 Daily Tech Stack: **vs code, sql**
+- 📫 Reach me at: [flukparadon10@gmail.com](mailto:flukparadon10@gmail.com)
 
 
 ---
@@ -38,40 +38,89 @@
 
 ---
 
-## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+## 🛠️ Tech Stack & Tools
+<table align="center">
+  <tr>
+    <th>🎯 Domain</th>
+    <th>🚀 Primary</th>
+    <th>✅ Comfortable</th>
+    <th>📖 Currently Exploring</th>
+  </tr>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=java&logoColor=white" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-end</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+<table align="center" style="border-collapse: collapse; border-radius: 10px; overflow: hidden;">
+  <tr style="background: linear-gradient(135deg, #1E4C9A, #3A6BC7); color: white;">
+    <th style="padding: 12px; text-align: left;">📧 Email</th>
+    <td style="padding: 12px;"><a href="mailto:flukparadon10@gmail.com" style="color: white; text-decoration: none;">flukparadon10@gmail.com</a></td>
+  </tr>
+  <tr style="background: rgba(30, 76, 154, 0.1);">
+    <th style="padding: 12px; text-align: left;">🌏 Location</th>
+    <td style="padding: 12px;">Thailand 🇹🇭</td>
+  </tr>
+  <tr style="background: rgba(30, 76, 154, 0.05);">
+    <th style="padding: 12px; text-align: left;">💬 Languages</th>
+    <td style="padding: 12px;">Thai (Native) • English (Beginner )</td>
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+</table>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+
+<div align="center">
+🙏 Thank you for visiting my profile! Profile Views 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E4C9A&height=100&section=footer&text=Thank%20you!&fontSize=16&fontColor=ffffff&animation=twinkling" />
+</div>
+ME⟫&style=flat-square" alt="profile views"/>
 </p>
